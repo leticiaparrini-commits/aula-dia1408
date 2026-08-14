@@ -1,0 +1,1 @@
+import {maior} from "./aulafuncao.js"

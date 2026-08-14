@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(77, 110, 61);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 100vw;
+    height: 90vh;
+    align-items: center;
+    background-color: rgb(131, 165, 130);
+    display: flex;
+
+
+#esquerda {
+ width: 100vw;
+ height: 90vh;
+ align-items: center;
+ background-color: rgb(150, 173, 150);
+ justify-content: center;
+ display: flex;
+ flex-direction: column;
+ 
+}
+#direita {
+ width: 100vw;
+ height: 90vh;
+ align-items: center;
+ justify-content: center;
+ display: flex;
+ flex-direction: column;
+
+}
+}
+footer {
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(77, 110, 61);
+    align-items: center;
+    display: flex;
+}
